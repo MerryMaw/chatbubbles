@@ -1,0 +1,9 @@
+{
+	"title"		:	"Chatbubbles",
+	"type"		:	"effects",
+	"tags"		:	[ "fun", "scenic" ],
+	"ignore"	:   
+	[
+		"*.txt"
+	]
+}
